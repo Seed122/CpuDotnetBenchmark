@@ -24,7 +24,7 @@ in cmd (win):
 
 The parameters are exactly equal to .NET Core version.
 
-Example output for Ryzen 7 1700:
+Example output for AMD Ryzen 7 1700:
 
 
 ```
