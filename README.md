@@ -32,3 +32,4 @@ Example output for Ryzen 7 1700:
 Calculating 10000 numbers in 16 theads [.NET Core 2.0]
 Calculated 10000 numbers in 9384 ms
 ```
+Here are results for author's two computers: [results.md](https://github.com/Seed122/CpuDotnetBenchmark/blob/master/Results.md)
