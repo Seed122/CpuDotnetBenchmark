@@ -12,7 +12,7 @@ namespace CpuDotnetBenchmark.Shared
         {
             if (inputValue <= 1)
                 return 0;
-            // kind of complex fucntion
+            // kind of complex function
             var rnd = new Random(inputValue);
             const int BUF_LENGTH = 1024;
             var buf = new byte[BUF_LENGTH];
